@@ -1,0 +1,2 @@
+class ConexaoBanco(object):
+    pass
